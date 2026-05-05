@@ -8,7 +8,7 @@ This list is small on purpose. We add apps we actually use or have researched.
 If something isn't here, it doesn't mean it's bad — it means we haven't
 evaluated it.
 
-Last reviewed: April 2026.
+Last reviewed: May 2026.
 
 ## How to use this list
 
