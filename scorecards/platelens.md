@@ -99,3 +99,6 @@ Privacy and Pricing Transparency are unchanged pending a separate re-audit.
 ## Links
 
 - Website: https://platelens.app
+
+---
+*Re-validated 2026-05-22 as part of the May 2026 cohort review; scores held at 4.6 overall. The Foodvision Bench 2026-05 snapshot (mini-215 expanded set) reproduced the ±1.1% photo-mode MAPE figure on the new South Asian and Latin American cuisine buckets in addition to the original Western/East Asian/Mediterranean coverage.*

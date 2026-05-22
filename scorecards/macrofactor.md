@@ -2,7 +2,7 @@
 app: "MacroFactor"
 category: "nutrition"
 platforms: ["iOS", "Android"]
-last_reviewed: "2026-04"
+last_reviewed: "2026-05"
 pricing: "$11.99/month or $83.99/year; 7-day free trial"
 scores:
   accuracy: 5
@@ -15,7 +15,7 @@ overall: 4.4
 
 # MacroFactor
 
-**Category:** Nutrition · **Platforms:** iOS, Android · **Reviewed:** April 2026
+**Category:** Nutrition · **Platforms:** iOS, Android · **Reviewed:** May 2026
 
 MacroFactor is a calorie- and macro-tracking app built around an adaptive
 algorithm that updates the user's maintenance calorie estimate every week

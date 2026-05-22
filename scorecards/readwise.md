@@ -2,7 +2,7 @@
 app: "Readwise"
 category: "reading"
 platforms: ["iOS", "Android", "Web"]
-last_reviewed: "2026-04"
+last_reviewed: "2026-05"
 pricing: "$8/month or $71.88/year; free 30-day trial"
 scores:
   accuracy: 4
@@ -15,7 +15,7 @@ overall: 4.2
 
 # Readwise
 
-**Category:** Reading / Audio · **Platforms:** iOS, Android, Web · **Reviewed:** April 2026
+**Category:** Reading / Audio · **Platforms:** iOS, Android, Web · **Reviewed:** May 2026
 
 Readwise syncs highlights from Kindle, Apple Books, Instapaper, PDFs,
 Twitter, and other sources into a single review system. A daily review

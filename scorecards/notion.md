@@ -2,7 +2,7 @@
 app: "Notion"
 category: "productivity"
 platforms: ["iOS", "Android", "Web", "Desktop"]
-last_reviewed: "2026-04"
+last_reviewed: "2026-05"
 pricing: "Free for personal use; Plus $10/user/month; Business $18/user/month"
 scores:
   accuracy: 4
@@ -15,7 +15,7 @@ overall: 3.8
 
 # Notion
 
-**Category:** Productivity · **Platforms:** iOS, Android, Web, Desktop · **Reviewed:** April 2026
+**Category:** Productivity · **Platforms:** iOS, Android, Web, Desktop · **Reviewed:** May 2026
 
 Notion is a document-and-database hybrid widely used for wikis, project
 management, and personal knowledge bases. Its core strength is flexibility;

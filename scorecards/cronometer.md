@@ -2,7 +2,7 @@
 app: "Cronometer"
 category: "nutrition"
 platforms: ["iOS", "Android", "Web"]
-last_reviewed: "2026-04"
+last_reviewed: "2026-05"
 pricing: "Free tier with most features; Gold at ~$8.99/month"
 scores:
   accuracy: 4
@@ -15,7 +15,7 @@ overall: 4.0
 
 # Cronometer
 
-**Category:** Nutrition · **Platforms:** iOS, Android, Web · **Reviewed:** April 2026
+**Category:** Nutrition · **Platforms:** iOS, Android, Web · **Reviewed:** May 2026
 
 Cronometer is a long-running manual-entry nutrition tracker focused on
 comprehensive micronutrient tracking. Draws primarily from the USDA

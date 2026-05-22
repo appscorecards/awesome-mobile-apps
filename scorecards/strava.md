@@ -2,7 +2,7 @@
 app: "Strava"
 category: "fitness"
 platforms: ["iOS", "Android", "Web"]
-last_reviewed: "2026-04"
+last_reviewed: "2026-05"
 pricing: "Free tier; Subscription ~$11.99/month or $79.99/year"
 scores:
   accuracy: 4
@@ -15,7 +15,7 @@ overall: 3.6
 
 # Strava
 
-**Category:** Fitness · **Platforms:** iOS, Android, Web · **Reviewed:** April 2026
+**Category:** Fitness · **Platforms:** iOS, Android, Web · **Reviewed:** May 2026
 
 Strava is the de facto social run/ride tracker. GPS-based activity logging
 plus a layer of kudos, comments, and segment competitions. Integrations
