@@ -45,6 +45,7 @@ Last reviewed: May 2026.
 
 - **Apple Fitness+** — workout library tied to Apple Watch; iOS-only.
 - **Future** — human coach paired with an app; expensive but consistent.
+- **HealthSync** 📝 — iOS app for syncing selected Apple Health data to a private backend API.
 - **Hevy** — lifting tracker with straightforward routine templates.
 - **Strava** 📝 — run/ride social tracker, de facto standard for endurance.
 - **Strong** — minimalist iOS-leaning lifting tracker.
