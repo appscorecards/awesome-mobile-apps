@@ -97,6 +97,7 @@ Last reviewed: May 2026.
 - **Fantastical** — calendar app with natural-language event parsing.
 - **Notion** 📝 — document and database hybrid used widely in small teams.
 - **Obsidian** 📝 — local-first markdown knowledge base with plugin ecosystem.
+- **Ripple** — free Android and iOS screen-time / Shorts blocker with parent unlock code; local, no ads. ([site](https://ripplefocus.github.io/))
 - **Things 3** — task manager for Apple platforms, paid one-time.
 - **Todoist** — cross-platform task manager with natural-language dates.
 
