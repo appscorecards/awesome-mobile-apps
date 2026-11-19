@@ -37,6 +37,7 @@ Last reviewed: May 2026.
 - **Chime** — mobile-first neobank with early direct deposit.
 - **Copilot** — personal finance tracker with good category auto-classification.
 - **Monarch** — budgeting app that replaced Mint for many users in 2024–2025.
+- **Ownbit** — self-custody mobile crypto wallet with MultiSig and offline QR signing; paid memberships with a 7-day trial.
 - **Robinhood** — commission-free brokerage, controversial but widely adopted.
 - **Wealthfront** — automated investing with a decent cash management account.
 - **YNAB** 📝 — envelope-method budgeting with a strong user community.
